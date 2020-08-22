@@ -1,0 +1,63 @@
+intents:
+  - greeting
+  - location
+  - tuition
+  - english
+  - ask_func_bot
+  - advisory
+  - recruitment
+  - info_major
+  - thanks
+  - complain
+entities:
+  - certificate
+  - obligatory
+templates:
+  utter_greet:
+  - text: "xin chào bạn, mình có thể giúp gì cho bạn"
+  - text: "xin chào, mình là bot abc."
+  utter_location:
+  - text: "Hiện tại đại học FPT có 3 cơ sở tại các địa chỉ như sau:\
+           - tại Hà nội\n\
+           - tại tp.HCM\n\
+           - tại Đà nẵng\n\
+           - tại Cần thơ\n"
+  utter_tuition:
+  - text: "Học phí chuyên ngành CNTT, Kinh tế, Ngôn ngữ... sẽ là 17,710,000 VNĐ/học kỳ,
+nộp vào đầu mỗi học kỳ. Sinh viên chuyên ngành du lịch, khách sạn nhập học
+năm 2020 được ưu đãi 30% học phí cho cả khoá học."
+  utter_english: 
+  - text: "với chuẩn TOEFL iBT 80 hoặc IELTS (Học thuật) 6.0 thì đéo cần phải học tiếng anh dự bị nữa"
+  utter_ask_func_bot:
+  - text: "mình làm được rất nhiều việc như giải đáp thắc mắc tuyển sinh, học bổng, tiếng anh."
+  utter_advisory: 
+  - text: "bạn cần mình giải đáp gì nào, hãy hỏi đi đừng ngại"
+  - text: "chần chừ gì nữa, lao tới hỏi mình đi thôi"
+  utter_recruitment:
+  - text: "Hiện tại FPT đang có 4 hình thức tuyển sinh gồm:\
+            - tuyển sinh học bạ\n\
+            - tuyển sinh THPT\n\
+            - tuyển thẳng\n\
+            - tuyển ưu tiên."
+  utter_info_major:
+  - text: "chuyên ngành công nghệ thông tin, vứt cho cái ảnh tự đọc nhé :))"
+  utter_thanks:
+  - text: "Dạ, không có gì đâu ạ. giúp được bạn là vinh hạnh của mình."
+  - text: "không có gì đâu ạ, giúp được bạn mình vui lắm."
+  utter_complain:
+  - text:  "mình rất xin lỗi :(("
+  - text: "mình sẽ cố hoàn thiện hơn."
+  utter_KH:
+  - text: "xin lỗi nhé, mình đéo hiểu gì"
+actions:
+  - utter_greet
+  - utter_location
+  - utter_tuition
+  - utter_KH
+  - utter_english
+  - utter_ask_func_bot
+  - utter_advisory
+  - utter_recruitment
+  - utter_info_major
+  - utter_thanks
+  - utter_complain

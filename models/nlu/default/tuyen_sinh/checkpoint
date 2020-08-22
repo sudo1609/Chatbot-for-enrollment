@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/quanghuy/Desktop/RASA_chatbot/./models/nlu/default/tuyen_sinh/component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/home/quanghuy/Desktop/RASA_chatbot/./models/nlu/default/tuyen_sinh/component_5_EmbeddingIntentClassifier.ckpt"

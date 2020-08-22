@@ -1,0 +1,354 @@
+## intent:tu_van
+- Chị có thể tư vấn cho em được không ạ?
+- Chị tư vấn cho em với được không ạ?
+- Có thể tư vấn thêm cho em được không ạ?
+- Anh tư vấn cho em với ạ.
+- Em muốn được tư vấn thêm ạ.
+- Tư vấn thêm cho em với ạ.
+- Học phí ở đây thế nào ạ?
+- Em muốn nghe tư vấn ạ.
+- Dạ tư vấn giúp em với ạ.
+- Em muốn được tư vấn ạ.
+- Chị tư vấn cho em với.
+- Em cần tư vấn ạ.
+- Chị tư vấn cho em nhé ạ?
+- Tư vấn em với ạ.
+- Cần tư vấn về xét học bạ ạ.
+- Em mong được tư vấn thêm ạ.
+- Anh tư vấn thêm cho em với ạ.
+- Chị tư vấn thêm cho em với ạ.
+- Tư vấn thêm cho em được không ạ?
+- Cần tư vấn thêm về học phí ạ.
+- Em cần được tư vấn thêm ạ.
+- Em muốn nghe tư vấn kĩ hơn ạ.
+- Chị tư vấn kĩ hơn được không ạ?
+- Em muốn nghe thêm tư vấn ạ.
+- Mong chị tư vấn thêm cho em ạ.
+- Cần được tư vấn kĩ hơn ạ.
+- Chị làm ơn tư vấn kĩ hơn cho em với ạ.
+
+## intent:chao_hoi
+- xin chào
+- hello
+- hi
+- hey
+- chào ad ạ
+- xin chào ạ
+- em chào chị tư vấn
+- em chào anh
+- chào bot nhé
+- chào mày
+- tao chào mày
+- chào
+- ad ơi.
+
+## intent:cam_on 
+- cảm ơn
+- cám ơn
+- xin cám ơn
+- cảm ơn bạn
+- cảm ơn bạn rất nhiều
+- chân thành cảm ơn bạn
+- cảm ơn sự giúp đỡ của bạn
+- cảm ơn bot đã giúp tôi
+- mày thật tốt bụng
+- cám ơn mày rất nhiều
+- thanks
+- thank you
+- thank you so much.
+- rất cảm ơn
+- bạn thật tuyệt vời
+- thật lòng cảm ơn bạn.
+- thật sự rất cám ơn bạn
+- bạn thật giỏi
+- cám ơn nhé
+- cám ơn bot nha
+- cám ơn bot nhiều nhiều
+- cám ơn mày nhá bot
+- cảm ơn bạn nhá
+- cảm ơn vì tất cả
+
+## intent:phan_nan
+- sao mày ngu thế?
+- sai rồi
+- ai lại trả lời thế bao giờ
+- Nói với mày bực mình thật đấy
+- Mày nói cái gì vậy?
+- Mày trả lời sai rồi.
+- Sao trả lời chậm như rùa thế.
+- Lâu quá.
+- Bot ngu thế?
+- trả lời sai rồi
+- không đúng
+- không phải
+- ngu vậy
+- dễ thế cũng trả lời sai
+- không đúng rồi
+- không phải câu trả lời này
+- sai bét rồi
+- trả lời cái gì vậy
+- không hiểu
+- ngu không tả nổi
+- không phải thế này
+- mày nói linh tinh rồi
+- bot gì mà ngu như bò.
+
+## intent:ask_func_bot 
+- bạn có thể làm được những gì
+- bạn giúp được gì nào
+- chức năng của bạn là gì
+- bạn có thể làm được mấy chức năng
+- bạn giỏi nhất làm gì
+- việc gì bạn làm được
+- kể xem bạn làm được gì
+- cho mình biết bạn làm được gì nhé
+- bạn hữu dụng như thế nào
+- bạn có ích trong những việc gì
+- lĩnh vực gì bạn giỏi nhất
+- mình tò mò về những việc bạn làm được
+- chẳng biết bạn làm được gì
+- bạn tệ nhất trong việc gì
+- bạn biết được những lĩnh vực gì
+- bạn giỏi hỗ trợ nhất trong lĩnh vực gì
+- kể cho mình biết những việc bạn có thể làm được nhé
+- nói cho mình về những việc bạn giúp được mình
+- bạn giúp được mình gì nào
+- bạn có thể làm gì
+- em giúp được gì
+- em làm được gì
+- mày biết làm gì
+- em biết làm gì
+- bạn biết làm gì
+- biết làm gì
+- có làm được gì
+- có làm được trò gì
+- giúp được tao cái gì
+- biết gì mà nói
+- làm được gì
+- giúp được gì
+- mày làm được gì
+- bot biết gì
+- các chức năng mà bạn có thể làm là gì
+
+## intent:hoc_phi
+- ngoài học phí còn cần đóng những khoản tiền gì nữa không ạ?
+- toàn bộ học phí ngành cntt là bao nhiêu?
+- học phí ngành công nghệ thông tin ra sao ạ?
+- tổng học phí từ lúc học đến lúc ra trường là bao nhiêu
+- học phí bao nhiêu một kì ạ?
+- ngành quản trị kinh doanh học phí bao nhiêu ạ?
+- cho em xin học phí ngành marketing với
+- học phí một năm của trường là bao nhiêu vậy? 
+- học phí ngành QTNHKS của đại học FPT cần thơ là bao nhiêu ạ?
+- trong thời gian học có phái sinh thêm phí không ạ?
+- cho em hỏi học phí quản trị du lịch?
+- ngành công nghệ thông tin tai hà nội chi phí bao nhiêu.
+- cho mình hỏi ngôn ngữ nhật một năm thì học phí bao nhiêu vậy
+- học phí marketing bao nhiêu ạ? 
+- học phí tầm bao nhiêu một kì ạ
+- học phí ngành thiết kế đồ họa bao nhiêu ạ? 
+- học phí chuyên ngành nào cũng như nhau ạ?
+- cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu ạ?
+- cho e hỏi học phí ngành quản trị kinh doanh một năm là bao nhiêu ạ
+- ngoài học phí ra còn phát sinh thêm khoản nào không? 
+- học phí ngành quản trị du lịch và lữ hành tại đà năng bao nhiêu?
+- xin cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu một kỳ ạ?
+- cho em hỏi kỹ thuật phần mềm thì học phí bao nhiêu ạ?
+- học ngành thiết kế đồ họa thì tiền học phí là bao nhiêu? 
+- học ngành an ninh mạng thì học phí ra sao ạ.
+- cho em hỏi mức học phí của ngành trí tuệ nhân tạo là bao nhiêu vậy
+- học phí ngành quản trị nhà hàng khách sạn bao nhiêu ạ? 
+- cho em hỏi ngoài tiền học phí ra thì còn phải đóng thêm khoản nào không?
+- cho mình hỏi học phí ngành công nghệ thông tin bao nhiêu được không.
+- cho em hỏi học phí ngành thiết kế đồ họa bao nhiêu một năm ạ?
+- học phí tiếng anh nữa ạ?
+- học phí là bao nhiêu?
+- cho em hỏi ngành truyền thông và báo chí thì học phí thế nào? 
+- học phí ngành thiết kế đồ họa một năm bao nhiêu ạ? 
+- em hỏi ngành ngôn ngữ nhật học phí 1 kỳ bao nhiêu
+- cho em hỏi học phí ngành ngôn ngữ anh học phí bao nhiêu vậy?
+- cho em hỏi ngành quản trị du lịch và lữ hành học phí thế nào ạ 
+- học phí tổng cộng khoảng bao nhiêu
+- học phí 4 năm là bao nhiêu? 
+- học phí như thế nào ạ?
+- cho em hỏi học phí 4 năm tất cả là bao nhiêu ạ? 
+- tổng chi phí học 4 năm tại FPT hà nội là bao nhiêu ạ.
+- cho em hỏi ngành CNTT học phí bao nhiêu ạ?
+- cho em hỏi chi phí ngành ngôn ngữ anh của trường mình?
+- tôi muốn tìm hiểu thêm về học phí trường FTP
+- ngoài những chi phí trường đã nêu còn chi phí nào nữa không? 
+- học phí từng ngành như thế nào
+- tổng chi phí 1 năm học tại FPT phải đóng là bao nhiêu? 
+- cho em hỏi chi phí ngành quản trị khách sạn là bao nhiêu ạ? 
+- tổng học phí của ngành ngôn ngữ anh trong một năm là bao nhiêu
+- ngành cntt thì học phí trung bình là bao nhiêu vậy? 
+- tổng học phí đến khi tốt nghiệp là bao nhiêu ạ? 
+- cho em hỏi mức học phí của trường ạ? 
+- học phí một kì bao nhiêu?
+- cho mình hỏi ngoài tiền học còn phát sinh thêm phụ phí nào không?
+- tổng học phí toàn khóa là bao nhiêu?
+- học phí của ngành khoa học máy tính 1 năm là bao nhiêu?
+- học phí khóa tiếng anh dự bị là bao nhiêu? 
+- học phí tiếng anh dự bị.
+- cho em hỏi tiền học của 1 khóa tiếng anh là bao nhiêu? 
+- mình muốn hỏi học phí ngành khoa học máy tính là bao nhiêu? 
+- học phí một kì của trường là bao nhiêu vậy? 
+- học phí của trường có cao không? 
+- mình cần hỏi học phí của ngành mỹ thuật ứng dụng bao nhiêu một kỳ?
+- em muốn hỏi học phí của ngành kế toán kiểm toán ở trường mình ạ? 
+- học bên du lịch chi phí tổng là bao nhiêu ạ? 
+- học phí ngôn ngữ nhật bao nhiêu?
+- học phí chuyên ngành it bao nhiêu ạ? 
+- học phí bao nhiêu? 
+- học phí ở trường như thế nào ạ? 
+- học phí hết bao nhiêu cho một năm
+
+## intent:co_so_dia_diem
+- xin cho tôi hỏi các địa điểm của trường FPT để tiện làm việc với ạ?
+- học ở đà nẵng thì học ở đâu?
+- học ở hà nội thì học ở chỗ nào
+- cho em hỏi nếu hởi HCM thì học ở cơ sở địa chỉ nào ạ 
+- cho em hỏi là nếu học ở hà nội thì địa chỉ là ở đâu ạ?
+- em muốn hỏi là trường đại học FPT có những cơ sở nào ạ?
+- trường đang có ở những tỉnh nào ạ?
+- cho mình hỏi các địa điểm cơ sở của trường ạ
+- trường FPT có bao nhiêu cơ sở địa điểm.
+- các cơ sở của FPT nằm ở đâu vậy?
+- cho mình hỏi trường hiện đang có bao nhiêu cơ sở và nằm ở đâu.
+- em muốn biết vị trí các cơ sở của FPT ạ
+- cho em xin thông tin các cơ sở của trường FPT trên toàn quốc ạ
+- hiện tại trường FPT đang có bao nhiêu cơ sở.
+
+## intent:tuyen_sinh
+- tuyển sinh 2020 như thế nào vậy?
+- muốn xét học bạ thì trường xét như thế nào?
+- hình thức tuyển sinh của FPT như thế nào vậy?
+- quy chế tuyển sinh 2020 của FPT có xét tuyển học bạ không ạ?
+- cho em hỏi thi xong THPTQG rồi mới đăng ký được không.
+- FPT có xét học bạ giáo dục thường xuyên không?
+- trường có xét học bạ không?
+- em tốt nghiệp cách đây 3 năm giờ còn xét học bạ được không ạ?
+- cách thức xét tuyển như thế nào ạ?
+- cho em hỏi sự khác nhau giữa xét điểm học bạ và thi thpt với ạ?
+- điều kiện xét tuyển của trường là gì ạ?
+- xét học bạ thì lấy điểm trung bình của mấy học kỳ?
+- em muốn xét tuyển theo kết quả THPTQG 2020 thì như thế nào ạ?
+- thi THPTQG đủ điểm vào trường thì có cần thi sơ tuyển nữa không?
+- thí sinh tự do thì có được xét học bạ không?
+- cách thức xét tuyển học bạ của trường FPT?
+- xét tuyển học bạ vào ngành kỹ thuật phần mền thì cần điều kiện gì?
+- điều kiện để xét tuyển học bạ vào ngành cntt
+- điều kiện xét tuyển vào trường FPT là như thế nào?
+- điều kiện xét tuyển vào trường FPT là như thế nào?
+- tốt nghiệp năm 2017 muốn xét tuyển học bạ có được không?
+- xét tuyển học bạ rồi có cần thi THPT nữa không?
+- mình tốt nghiệp THPT năm 2018 có được xét tuyển học bạ không?
+- xét học bạ cần những tiêu chí gì?cho em hỏi năm 2019-2020 có xét học bạ không ạ?
+- em cần tư vấn cách xét học bạ ạ
+- thi THPTQG xong vẫn xét tuyển được phải không?
+- chỉ tiêu sét học bạ là bao nhiêu điểm?
+- FPT xét tuyển bao nhiêu điểm ạ?
+- cho em hỏi xét học bạ thì bao nhiêu phẩy ạ?
+- cách thức xét tuyển vào trường?
+- mình muốn hỏi cách thức xét tuyển vô trường là sao ạ? 
+- xét tuyển học bạ rồi còn có yêu cầu nào khác không?
+- mình ra trường năm 2018 rồi muốn vào học có phải thi lại không?
+- ngành thiết kế đồ họa xét tuyển như thế nào?
+- tốt nghiệp lớp 12 năm 2017 thì đăng ký hồ sơ được không ạ?
+- em tốt nghiệp năm 2018 giờ đăng ký được không ạ?
+- cho em hỏi cách tính điểm học bạ với ạ?
+- tôi muốn thi vào ngành QTKD thì hình thức tuyển sinh như thế nào?
+- ngành quản trị kinh doanh xét tổ hợp môn nào vậy ạ?
+- ngành quản lý truyền thông đa phương tiện thì xét tuyển khối nào vậy?
+- điều kiện để được tuyển thẳng ạ?
+- điều kiện xét tuyển bao gồm những nội dung gì ạ?
+- điều kiện thuyển thẳng năm 2020 như nào ạ?
+- ngành công nghệ thông tin xét tuyển những môn nào vậy?
+- cho mình hỏi có xét tuyển kì thi THPT không ạ?
+- ngành thiết kế mỹ thuật có được xét học bạ không? 
+- xét học bạ như thế nào mới đủ điều kiện vào ạ? 
+- cho mình hỏi xét học bạ thì cách tính điểm như thế nào ạ?
+- mình muốn hỏi công thức tính điểm xét học bạ như thế nào ạ? 
+- ngoài cách xét tuyển học bạ ra còn cách xét tuyển nào khác không?
+- điểm thi không đủ 21 điểm thì làm thế nào để được xét tuyển?
+
+## intent: tieng_anh
+- nếu có [chứng chỉ]{"entity": "chung_chi"} tiếng anh thì có ưu tiên gì không ạ?
+- chưa có [chứng chỉ]{"entity": "chung_chi"} thì phải học cả 6 mức tiếng anh đúng không ạ?
+- Cho em hỏi học tiếng Anh phải học cả 6 mức ạ nếu chưa có [chứng chỉ]{"entity": "chung_chi"} đúng không
+- tiếng anh dự bị là [bắt buộc]{"entity": "bat_buoc"} ạ?
+- cho em hỏi trường có [bắt buộc]{"entity": "bat_buoc"} học chương trình tiếng anh dự bị không ạ?
+- em muốn học ở trường thì có [bắt buộc]{"entity": "bat_buoc"} học thêm khóa tiếng anh của trường không ạ?
+- cho em hỏi muốn vào trường thì có [bắt buộc]{"entity": "bat_buoc"} học tiếng anh không ạ 
+- vào trường thì [bắt buộc]{"entity": "bat_buoc"} học tiếng anh ạ?
+- cho em hỏi học tiếng anh dự bị là [bắt buộc]{"entity": "bat_buoc"} ạ?
+- [bắt buộc]{"entity": "bat_buoc"} phải học tiếng anh dự bị đúng không ạ?
+- Học tiếng anh dự bị thì [bắt buộc]{"entity": "bat_buoc"} phải không ạ?
+- em có chứng chỉ [ielts]{"entity": "chung_chi"} 6.5 thì có được nhận ưu tiên gì không ạ
+- em có bằng [IL]{"entity": "chung_chi"} thì có được miễn lớp tiếng anh dự bị không?
+- nếu em có bằng [TOELF]{"entity":"chung_chi"} thì có được miễn học chương trình tiếng anh không ạ?
+- cho em hỏi có bằng [toeic]{"entity": "chung_chi"} từ 500 trở lên có được miễn học chương trình tiếng anh không ạ 
+- cho em hỏi nếu mình có bằng [IELTS]{"entity": "chung_chi"} thì mình sẽ được lợi thế gì ạ?
+- có bằng [ielts]{"entity": "chung_chi"} đạt 6.0 và vẫn còn hiệu lực thì được miễn tiếng anh đầu vào phải không ạ?
+- em thì lấy bằng [IELTS]{"entity": "chung_chi"} nhưng chưa đạt 6.0 thì có được ưu tiên gì không ạ?
+- cho em hỏi là nếu em có bằng [il]{"entity": "chung_chi"} 5.5 thì chương trình dự bị tiếng anh sẽ thế nào ạ?
+- cho em hỏi mất gốc tiếng anh thì năm đầu sẽ được đào tạo lại ạ?
+- em học tiếng anh không giỏi thì trường mình có đào tạo lại không ạ?
+- trình độ tiếng anh của em rất kém vậy khi vào trường có được đào tạo lại từ đầu không ạ
+- cho em hỏi là nếu em mất gốc tiếng anh thì vào trường có được đào tạo lại không ạ?
+- cho mình hỏi nếu mất căn bản môn anh có được xét tuyển không ạ?
+- cho em hỏi là kiểm tra năng lực tiếng anh là kiểm tra phần gì vậy ạ?
+- có cần giỏi tiếng anh mới được vào trường không ạ?
+- ngoại ngữ của em yếu, em có được tuyển vào ĐH FPt không ạ?
+- trường có bài thi xét mức độ tiếng anh không ạ.
+- bài thi tiếng anh đầu vào kiểm tra dưới hình thức như thế nào?
+- cho em hỏi bài test tiếng anh cần bao nhiêu điểm để miễn phí khóa dự bị ạ.
+- cho em hỏi nếu có [IELTS]{"entity": "chung_chi"} 6.5 thì sao ạ
+- Cho e hỏi nếu có [ielts]{"entity": "chung_chi"} 6.0 năm đầu mình sẽ được miễn học tiếng anh  đúng không ạ?
+- cho em hỏi là nếu có bằng [toelf]{"entity": "chung_chi"} 75 thì mình không cần phải học tiếng anh dự bị luôn hay vẫn phải thi?
+- cho em hỏi mất căn bản môn anh thì vào học như thế nào ạ?
+
+## intent:info_major
+- em cần tư vấn ngành hệ thống thông tin và kĩ thuật phần mềm ạ.
+- em cần tư vấn ngành quản trị kinh doanh, kinh tế quốc tế và ngôn ngữ nhật ạ
+- em muốn được tư vấn ngành ngôn ngữ nhật ạ 
+- em muốn tư vấn thiết kế đồ họa 
+- em muốn được tư vấn ngành thiết kế đồ họa ạ. 
+- em muốn được tư vấn ngành công nghệ thông tin ạ.
+- cho em hỏi là trường FPT có ngành thiết kế đồ họa không ạ???
+- cho em hỏi có ngành truyền thông đa phương tiện không ạ??
+- FPT có ngành thiết kế đồ họa không ạ 
+- em muốn hỏi về thông tin ngành marketing.
+- ad cho em hỏi ngành ngôn ngữ nhật là học về gì thế?
+- ngành ngôn ngữ anh ở trường mình đào tạo những gì ạ?
+- có thể tư vấn cho em về chuyên ngành tiếng hàn không ạ?
+- cho em hỏi bên trường mình có ngành khoa học máy tính không ạ?
+- mã ngành cntt là gì vậy ạ.
+- cho em hỏi về thông tin ngành QTKD
+- ngành KHMT không có nữa ạ
+- trường có đào tạo ngành tâm lý học không 
+- Có ngành quản trị nhân sự không ạ
+- ad có thể tư vấn giúp em về ngành QTKS không ạ s
+- cho em hỏi về ngành quản trị truyền thông đa phương tiện ạ 
+- chị cho em hỏi về thông tin ngành kinh doanh quốc tế với ạ.
+- em đang muốn theo học ngành an toàn thông tin, tư vấn giúp em với ạ.
+- cho em hỏi trường có ngành quản trị du lịch và lữ hành không ạ?
+
+- em muốn tư vấn về các ngành học của trường mình ạ 
+- iot là học về cái gì vậy ạ.
+- cho em hỏi về ngành trí tuệ nhân tạo là học gì vậy ạ 
+
+
+## intent:test
+- đây là số của tôi [0193830284](phone)
+- số của mình đây nhé [019327393](phone)
+- của mình đây [018230823](phone)
+- mình gửi bạn số điện thoại [0192381092](phone)
+- mình gửi bạn nhé [203984029](phone)
+- [02394820](phone) số mình nè
+- đây bạn ơi [094840294](phone)
+- [02394820](phone)
+- số mình đây nhá [20309483209](phone)
+
+
+

@@ -1,0 +1,1864 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "chị có thể tư vấn cho em được không ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "chị tư vấn cho em với được không ạ?",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "có thể tư vấn thêm cho em được không ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "anh tư vấn cho em với ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "em muốn được tư vấn ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tư vấn thêm cho em với ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "em muốn nghe tư vấn ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "bot có thể tư vấn giúp mình được không?",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "dạ tư vấn giúp em với ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "em cần được tư vấn ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "cần được tư vấn ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tư vấn cho mình với nhé",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "mình cần hỏi một vài thông tin",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tôi cần được tư vấn, bạn có thể giúp tôi không",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "bạn có thể tư vấn giúp tôi không?",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "ngoài học phí còn cần đóng những khoản tiền gì nữa không ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "toàn bộ học phí ngành cntt là bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngành công nghệ thông tin ra sao ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tổng học phí từ lúc học đến lúc ra trường là bao nhiêu",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí bao nhiêu một kì ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "ngành quản trị kinh doanh học phí bao nhiêu ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em xin học phí ngành marketing với",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí một năm của trường là bao nhiêu vậy? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngành QTNHKS của đại học FPT cần thơ là bao nhiêu ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "trong thời gian học có phái sinh thêm phí không ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi học phí quản trị du lịch?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "ngành công nghệ thông tin tai hà nội chi phí bao nhiêu.",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi ngôn ngữ nhật một năm thì học phí bao nhiêu vậy",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí marketing bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí tầm bao nhiêu một kì ạ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngành thiết kế đồ họa bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí chuyên ngành nào cũng như nhau ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho e hỏi học phí ngành quản trị kinh doanh một năm là bao nhiêu ạ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "ngoài học phí ra còn phát sinh thêm khoản nào không? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngành quản trị du lịch và lữ hành tại đà năng bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "xin cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu một kỳ ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi kỹ thuật phần mềm thì học phí bao nhiêu ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học ngành thiết kế đồ họa thì tiền học phí là bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học ngành an ninh mạng thì học phí ra sao ạ.",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi mức học phí của ngành trí tuệ nhân tạo là bao nhiêu vậy",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngành quản trị nhà hàng khách sạn bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi ngoài tiền học phí ra thì còn phải đóng thêm khoản nào không?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi học phí ngành công nghệ thông tin bao nhiêu được không.",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi học phí ngành thiết kế đồ họa bao nhiêu một năm ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí tiếng anh nữa ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí là bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi ngành truyền thông và báo chí thì học phí thế nào? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngành thiết kế đồ họa một năm bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "em hỏi ngành ngôn ngữ nhật học phí 1 kỳ bao nhiêu",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi học phí ngành ngôn ngữ anh học phí bao nhiêu vậy?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi ngành quản trị du lịch và lữ hành học phí thế nào ạ ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí tổng cộng khoảng bao nhiêu",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí 4 năm là bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí như thế nào ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi học phí 4 năm tất cả là bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tổng chi phí học 4 năm tại FPT hà nội là bao nhiêu ạ.",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi ngành CNTT học phí bao nhiêu ạ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi chi phí ngành ngôn ngữ anh của trường mình?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tôi muốn tìm hiểu thêm về học phí trường FTP",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "ngoài những chi phí trường đã nêu còn chi phí nào nữa không? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí từng ngành như thế nào",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tổng chi phí 1 năm học tại FPT phải đóng là bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi chi phí ngành quản trị khách sạn là bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tổng học phí của ngành ngôn ngữ anh trong một năm là bao nhiêu",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "ngành cntt thì học phí trung bình là bao nhiêu vậy? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tổng học phí đến khi tốt nghiệp là bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi mức học phí của trường ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí một kì bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi ngoài tiền học còn phát sinh thêm phụ phí nào không?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "tổng học phí toàn khóa là bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí của ngành khoa học máy tính 1 năm là bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí khóa tiếng anh dự bị là bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí tiếng anh dự bị.",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi tiền học của 1 khóa tiếng anh là bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "mình muốn hỏi học phí ngành khoa học máy tính là bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí một kì của trường là bao nhiêu vậy? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí của trường có cao không? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "mình cần hỏi học phí của ngành mỹ thuật ứng dụng bao nhiêu một kỳ?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "em muốn hỏi học phí của ngành kế toán kiểm toán ở trường mình ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học bên du lịch chi phí tổng là bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ngôn ngữ nhật bao nhiêu?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí chuyên ngành it bao nhiêu ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí bao nhiêu? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí ở trường như thế nào ạ? ",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "học phí hết bao nhiêu cho một năm",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "nếu có chứng chỉ tiếng anh thì có ưu tiên gì không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": "chứng chỉ",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "chưa có chứng chỉ thì phải học cả 6 mức tiếng anh đúng không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 8,
+            "end": 17,
+            "value": "chứng chỉ",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "Cho em hỏi học tiếng Anh phải học cả 6 mức ạ nếu chưa có chứng chỉ đúng không",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 57,
+            "end": 66,
+            "value": "chứng chỉ",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "tiếng anh dự bị là bắt buộc ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi trường có bắt buộc học chương trình tiếng anh dự bị không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 21,
+            "end": 29,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "em muốn học ở trường thì có bắt buộc học thêm khóa tiếng anh của trường không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 28,
+            "end": 36,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi muốn vào trường thì có bắt buộc học tiếng anh không ạ ",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 34,
+            "end": 42,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "vào trường thì bắt buộc học tiếng anh ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 15,
+            "end": 23,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi học tiếng anh dự bị là bắt buộc ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 34,
+            "end": 42,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "bắt buộc phải học tiếng anh dự bị đúng không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "Học tiếng anh dự bị thì bắt buộc phải không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 24,
+            "end": 32,
+            "value": "bắt buộc",
+            "entity": "obligatory"
+          }
+        ]
+      },
+      {
+        "text": "em có chứng chỉ ielts 6.5 thì có được nhận ưu tiên gì không ạ",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "ielts",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "em có bằng IL thì có được miễn lớp tiếng anh dự bị không?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 11,
+            "end": 13,
+            "value": "IL",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "nếu em có bằng TOELF thì có được miễn học chương trình tiếng anh không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 15,
+            "end": 20,
+            "value": "TOELF",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi có bằng toeic từ 500 trở lên có được miễn học chương trình tiếng anh không ạ ",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "toeic",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi nếu mình có bằng IELTS thì mình sẽ được lợi thế gì ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "IELTS",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "có bằng ielts đạt 6.0 và vẫn còn hiệu lực thì được miễn tiếng anh đầu vào phải không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "ielts",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "em thì lấy bằng IELTS nhưng chưa đạt 6.0 thì có được ưu tiên gì không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "IELTS",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi là nếu em có bằng il 5.5 thì chương trình dự bị tiếng anh sẽ thế nào ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 29,
+            "end": 31,
+            "value": "il",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi mất gốc tiếng anh thì năm đầu sẽ được đào tạo lại ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "em học tiếng anh không giỏi thì trường mình có đào tạo lại không ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "trình độ tiếng anh của em rất kém vậy khi vào trường có được đào tạo lại từ đầu không ạ",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi là nếu em mất gốc tiếng anh thì vào trường có được đào tạo lại không ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi nếu mất căn bản môn anh có được xét tuyển không ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi là kiểm tra năng lực tiếng anh là kiểm tra phần gì vậy ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "có cần giỏi tiếng anh mới được vào trường không ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "ngoại ngữ của em yếu, em có được tuyển vào ĐH FPt không ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "trường có bài thi xét mức độ tiếng anh không ạ.",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "bài thi tiếng anh đầu vào kiểm tra dưới hình thức như thế nào?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi bài test tiếng anh cần bao nhiêu điểm để miễn phí khóa dự bị ạ.",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi nếu có IELTS 6.5 thì sao ạ",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 18,
+            "end": 23,
+            "value": "IELTS",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "Cho e hỏi nếu có ielts 6.0 năm đầu mình sẽ được miễn học tiếng anh  đúng không ạ?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "ielts",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi là nếu có bằng toelf 75 thì mình không cần phải học tiếng anh dự bị luôn hay vẫn phải thi?",
+        "intent": "english",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "toelf",
+            "entity": "certificate"
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi mất căn bản môn anh thì vào học như thế nào ạ?",
+        "intent": "english",
+        "entities": []
+      },
+      {
+        "text": "xin cho tôi hỏi các địa điểm của trường FPt để tiện làm việc với ạ?",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "học ở đà nẵng thì học ở đâu?",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "học ở hà nội thì học ở chỗ nào",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi nếu hởi HCM thì học ở cơ sở địa chỉ nào ạ ",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi là nếu học ở hà nội thì địa chỉ là ở đâu ạ?",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "em muốn hỏi là trường đại học FPT có những cơ sở nào ạ?",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "trường đang có ở những tỉnh nào ạ?",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "bạn có thể làm được những gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "bạn giúp được gì nào?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "chức năng của bạn là gì ",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "bạn có thể làm được bao nhiêu thứ",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "bạn giỏi nhất việc gì?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "kể xem bạn làm được những gì nào?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "cho tao biết mày làm được gì nhé?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "lĩnh vực gì mày giỏi nhất ",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "mình tò mò về những việc bạn làm được?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "mày giúp được gì nào?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "em biết làm những gì?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "những việc bạn có thể giúp mình là gì?",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "mình cần hỏi đáp một vài thông tin ạ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "em cần tư vấn một số thứ, giúp em với.",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "xin chào ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "add ơi",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "chào add ạ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "chào buổi sáng",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "chào buổi tối",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "hi ad ạ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "em đang thắc mắc vài chỗ ạ?",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tuyển sinh 2020 như thế nào vậy?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "muốn xét học bạ thì trường xét như thế nào?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "hình thức tuyển sinh của FPT như thế nào vậy?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "quy chế tuyển sinh 2020 của FPT có xét tuyển học bạ không ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi thi xong THPTQG rồi mới đăng ký được không.",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "FPT có xét học bạ giáo dục thường xuyên không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "trường có xét học bạ không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "em tốt nghiệp cách đây 3 năm giờ còn xét học bạ được không ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cách thức xét tuyển như thế nào ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi sự khác nhau giữa xét điểm học bạ và thi thpt với ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điều kiện xét tuyển của trường là gì ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "xét học bạ thì lấy điểm trung bình của mấy học kỳ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "em muốn xét tuyển theo kết quả THPTQG 2020 thì như thế nào ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "thi THPTQG đủ điểm vào trường thì có cần thi sơ tuyển nữa không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "thí sinh tự do thì có được xét học bạ không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cách thức xét tuyển học bạ của trường FPT?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "xét tuyển học bạ vào ngành kỹ thuật phần mền thì cần điều kiện gì?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điểu kiện để xét tuyển học bạ vào ngành cntt",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điều kiện xét tuyển vào trường FPT là như thế nào?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điều kiện xét tuyển vào trường FPT là như thế nào?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "tốt nghiệp năm 2017 muốn xét tuyển học bạ có được không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "xét tuyển học bạ rồi có cần thi THPT nữa không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "mình tốt nghiệp THPT năm 2018 có được xét tuyển học bạ không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "xét học bạ cần những tiêu chí gì?cho em hỏi năm 2019-2020 có xét học bạ không ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "em cần tư vấn cách xét học bạ ạ",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "thi THPTQG xong vẫn xét tuyển được phải không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "chỉ tiêu sét học bạ là bao nhiêu điểm?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "FPT xét tuyển bao nhiêu điểm ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi xét học bạ thì bao nhiêu phẩy ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cách thức xét tuyển vào trường?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "mình muốn hỏi cách thức xét tuyển vô trường là sao ạ? ",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "xét tuyển học bạ rồi còn có yêu cầu nào khác không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "mình ra trường năm 2018 rồi muốn vào học có phải thi lại không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "ngành thiết kế đồ họa xét tuyển như thế nào?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "tốt nghiệp lớp 12 năm 2017 thì đăng ký hồ sơ được không ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "em tốt nghiệp năm 2018 giờ đăng ký được không ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cho em hỏi cách tính điểm học bạ với ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "tôi muốn thi vào ngành QTKD thì hình thức tuyển sinh như thế nào?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "ngành quản trị kinh doanh xét tổ hợp môn nào vậy ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "ngành quản lý truyền thông đa phương tiện thì xét tuyển khối nào vậy?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điều kiện để được tuyển thẳng ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điều kiện xét tuyển bao gồm những nội dung gì ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điều kiện thuyển thẳng năm 2020 như nào ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "ngành công nghệ thông tin xét tuyển những môn nào vậy?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi có xét tuyển kì thi THPT không ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "ngành thiết kế mỹ thuật có được xét học bạ không? ",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "xét học bạ như thế nào mới đủ điều kiện vào ạ? ",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi xét học bạ thì cách tính điểm như thế nào ạ?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "mình muốn hỏi công thức tính điểm xét học bạ như thế nào ạ? ",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "ngoài cách xét tuyển học bạ ra còn cách xét tuyển nào khác không?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "điểm thi không đủ 21 điểm thì làm thế nào để được xét tuyển?",
+        "intent": "recruitment",
+        "entities": []
+      },
+      {
+        "text": "em cần tư vấn ngành hệ thống thông tin và kĩ thuật phần mềm ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 20,
+            "end": 38,
+            "value": "hệ thống thông tin",
+            "entity": "major "
+          },
+          {
+            "start": 42,
+            "end": 59,
+            "value": "kĩ thuật phần mềm",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em cần tư vấn ngành quản trị kinh doanh, kinh tế quốc tế và ngôn ngữ nhật ạ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 60,
+            "end": 73,
+            "value": "ngôn ngữ nhật",
+            "entity": "major "
+          },
+          {
+            "start": 41,
+            "end": 56,
+            "value": "kinh tế quốc tế",
+            "entity": "major "
+          },
+          {
+            "start": 20,
+            "end": 39,
+            "value": "quản trị kinh doanh",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em muốn được tư vấn ngành ngôn ngữ nhật ạ ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 26,
+            "end": 39,
+            "value": "ngôn ngữ nhật",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em muốn tư vấn thiết kế đồ họa ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 15,
+            "end": 30,
+            "value": "thiết kế đồ họa",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em muốn được tư vấn ngành thiết kế đồ họa ạ. ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 26,
+            "end": 41,
+            "value": "thiết kế đồ họa",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em muốn được tư vấn ngành công nghệ thông tin ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 26,
+            "end": 45,
+            "value": "công nghệ thông tin",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi là trường FPT có ngành thiết kế đồ họa không ạ???",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 34,
+            "end": 49,
+            "value": "thiết kế đồ họa",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi có ngành truyền thông đa phương tiện không ạ??",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 20,
+            "end": 47,
+            "value": "truyền thông đa phương tiện",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "FPT có ngành thiết kế đồ họa không ạ ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 13,
+            "end": 28,
+            "value": "thiết kế đồ họa",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em muốn hỏi về thông tin ngành marketing.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 31,
+            "end": 40,
+            "value": "marketing",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "ad cho em hỏi ngành ngôn ngữ nhật là học về gì thế?",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 20,
+            "end": 33,
+            "value": "ngôn ngữ nhật",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "ngành ngôn ngữ anh ở trường mình đào tạo những gì ạ?",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 6,
+            "end": 18,
+            "value": "ngôn ngữ anh",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "có thể tư vấn cho em về chuyên ngành tiếng hàn không ạ?",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 37,
+            "end": 46,
+            "value": "tiếng hàn",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi bên trường mình có ngành khoa học máy tính không ạ?",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 36,
+            "end": 53,
+            "value": "khoa học máy tính",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "mã ngành cntt là gì vậy ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 9,
+            "end": 13,
+            "value": "cntt",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi về thông tin ngành QTKD",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "QTKD",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "ngành KHMT không có nữa ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 6,
+            "end": 10,
+            "value": "KHMT",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "trường có đào tạo ngành tâm lý học không ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 18,
+            "end": 30,
+            "value": "ngành tâm lý",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "Có ngành quản trị nhân sự không ạ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 9,
+            "end": 25,
+            "value": "quản trị nhân sự",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "ad có thể tư vấn giúp em về ngành QTKS không ạ ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "QTKS",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi về ngành quản trị truyền thông đa phương tiện ạ ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 20,
+            "end": 56,
+            "value": "quản trị truyền thông đa phương tiện",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "chị cho em hỏi về thông tin ngành kinh doanh quốc tế với ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 28,
+            "end": 52,
+            "value": "ngành kinh doanh quốc tế",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em đang muốn theo học ngành an toàn thông tin, tư vấn giúp em với ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 28,
+            "end": 45,
+            "value": "an toàn thông tin",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi trường có ngành quản trị du lịch và lữ hành không ạ?",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 27,
+            "end": 54,
+            "value": "quản trị du lịch và lữ hành",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "em muốn biết thông tin chuyên ngành quản trị dịch vụ du lịch và lữ hành ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 36,
+            "end": 71,
+            "value": "quản trị dịch vụ du lịch và lữ hành",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "Chị làm ơn tư vấn kĩ hơn cho em với ạ.",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "Cần được tư vấn kĩ hơn ạ.",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "Mong chị tư vấn cho em ạ.",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "chào mày ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "tao chào mày ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "em chào chị tư vấn",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "em chào anh ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "ad ơi ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "chào ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cám ơn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "xin cám ơn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn bạn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn bạn rất nhiều",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "chân thành cảm ơn bạn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn sự giúp đỡ của bạn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn bot đã giúp tôi",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "mày thật tốt bụng",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cám ơn mày rất nhiều",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "thanks",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "thank you",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "thank you so much.",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "rất cảm ơn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "bạn thật tuyệt vời",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "thật lòng cảm ơn bạn.",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "thật sự rất cám ơn bạn",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "bạn thật giỏi",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cám ơn nhé",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cám ơn bot nha",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cám ơn bot nhiều nhiều",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cám ơn mày nhá bot",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn bạn nhá",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "cảm ơn vì tất cả",
+        "intent": "thanks ",
+        "entities": []
+      },
+      {
+        "text": "các chức năng mà bạn có thể làm là gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "bot biết gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "mày làm được gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "giúp được gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "làm được gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "biết gì mà nói",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "giúp được tao cái gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "có làm được trò gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "có làm được gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "bạn biết làm gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "em biết làm gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "em làm được gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "chẳng biết bạn làm được gì",
+        "intent": "ask_func_bot",
+        "entities": []
+      },
+      {
+        "text": "sao mày ngu thế?",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": " sai rồi",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ai lại trả lời thế bao giờ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Nói với mày bực mình thật đấy",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Mày nói cái gì vậy?",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Mày trả lời sai rồi.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Sao trả lời chậm như rùa thế.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Lâu quá.",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "Bot ngu thế?",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "trả lời sai rồi",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "không phải",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "không đúng",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu vậy",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "dễ thế cũng trả lời sai",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "không đúng rồi",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "không phải câu trả lời này",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "sai bét rồi",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "trả lời cái gì vậy",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "không hiểu",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu không tả nổi",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "không phải thế này",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "mày nói linh tinh rồi",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu thế thì ai chịu được ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu như chó",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "em muốn tư vấn về các ngành học của trường mình ạ",
+        "intent": "info_major",
+        "entities": []
+      },
+      {
+        "text": "iot là học về cái gì vậy ạ.",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "iot",
+            "entity": "major "
+          }
+        ]
+      },
+      {
+        "text": "cho em hỏi về ngành trí tuệ nhân tạo là học gì vậy ạ ",
+        "intent": "info_major",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "trí tuệ nhân tạo",
+            "entity": "major "
+          }
+        ]
+      }
+    ],
+    "regex_features": [],
+    "entity_sysnonyms": []
+  }
+}
