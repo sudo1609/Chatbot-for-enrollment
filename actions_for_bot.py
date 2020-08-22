@@ -1,4 +1,4 @@
-from __future__ import absolute_import
+'''from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
@@ -31,7 +31,7 @@ class SubscribeUser(Action):
         if subscribe == False:
             response = "You're successfully unsubscribed"
         dispatcher.utter_message(response)
-        return [SlotSet("subscribe", subscribe)]
+        return [SlotSet("subscribe", subscribe)]'''
 
 
         
