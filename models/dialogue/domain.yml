@@ -42,7 +42,7 @@ intents:
 slots: {}
 templates:
   utter_KH:
-  - text: xin lỗi nhé, mình đéo hiểu gì
+  - text: "xin lỗi nhé bạn nói cái khỉ gì vậy mình đéo hiểu gì\nBạn nói lại xem nào!!!"
   utter_advisory:
   - text: bạn cần mình giải đáp gì nào, hãy hỏi đi đừng ngại
   - text: chần chừ gì nữa, lao tới hỏi mình đi thôi
@@ -50,25 +50,26 @@ templates:
   - text: mình làm được rất nhiều việc như giải đáp thắc mắc tuyển sinh, học bổng,
       tiếng anh.
   utter_complain:
-  - text: mình rất xin lỗi :((
-  - text: mình sẽ cố hoàn thiện hơn.
+  - text: Mình rất xin lỗi bạn. Mình sẽ cố gắng hoàn thiện trong thời gian sắp tới
+      :((
+  - text: Dạ mình xin lỗi bạn mình sẽ cố hoàn thiện hơn ạ. :((
   utter_english:
-  - text: với chuẩn TOEFL iBT 80 hoặc IELTS (Học thuật) 6.0 thì đéo cần phải học tiếng
+  - text: Với chuẩn TOEFL iBT 80 hoặc IELTS (Học thuật) 6.0 thì đéo cần phải học tiếng
       anh dự bị nữa
   utter_greet:
-  - text: xin chào bạn, mình có thể giúp gì cho bạn
-  - text: xin chào, mình là bot abc.
+  - text: xin chào rất vui khi được gặp bạn, mình có thể giúp gì cho bạn.
+  - text: xin chào, mình là bot acula mình có thể giúp gì được cho bạn ạ!!!
   utter_info_major:
-  - text: chuyên ngành công nghệ thông tin, vứt cho cái ảnh tự đọc nhé :))
+  - text: vứt cho cái ảnh tự đọc nhé, chứ thông nhiều lắm kể không hết:))
   utter_location:
-  - text: "Hiện tại đại học FPT có 3 cơ sở tại các địa chỉ như sau:- tại Hà nội\n\
+  - text: "Hiện tại đại học FPT có 4 cơ sở tại các địa chỉ như sau:\n- tại Hà nội\n\
       - tại tp.HCM\n- tại Đà nẵng\n- tại Cần thơ\n"
   utter_recruitment:
-  - text: "Hiện tại FPT đang có 4 hình thức tuyển sinh gồm:- tuyển sinh học bạ\n-\
-      \ tuyển sinh THPT\n- tuyển thẳng\n- tuyển ưu tiên."
+  - text: "Hiện tại FPT đang có 4 hình thức tuyển sinh gồm:\n- tuyển sinh học bạ\n\
+      - tuyển sinh THPT\n- tuyển thẳng\n- tuyển ưu tiên."
   utter_thanks:
-  - text: Dạ, không có gì đâu ạ. giúp được bạn là vinh hạnh của mình.
-  - text: không có gì đâu ạ, giúp được bạn mình vui lắm.
+  - text: Dạ, không có gì đâu ạ. Giúp được bạn là vinh hạnh của mình.
+  - text: Không có gì đâu ạ, giúp được bạn mình vui lắm.
   utter_tuition:
   - text: Học phí chuyên ngành CNTT, Kinh tế, Ngôn ngữ... sẽ là 17,710,000 VNĐ/học
       kỳ, nộp vào đầu mỗi học kỳ. Sinh viên chuyên ngành du lịch, khách sạn nhập học

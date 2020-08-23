@@ -10,8 +10,8 @@
 * thanks
    - utter_thanks
 ## addvisory - tuition - english
-* advisory 
-   - utter_advisory 
+* advisory
+   - utter_advisory
 * tuition
    - utter_tuition
 * english
@@ -72,5 +72,43 @@
    - utter_advisory 
 * english
    - utter_english
+* thanks
+   - utter_thanks
+
+## greet
+* greet
+   - utter_greet
+
+## advisory + thanks
+* advisory
+   - utter_advisory 
+* thanks
+   - utter_thanks
+
+## english + thanks
+* english
+   - utter_english
+* thanks
+   - utter_thanks
+
+## info_major + thanks
+* info_major
+   - utter_info_major
+* thanks
+   - utter_thanks
+
+## recruitment + tuition + thanks
+* recruitment
+   - utter_recruitment
+* tuition
+   - utter_tuition
+* thanks
+   - utter_thanks
+
+## greet + ask_func_bot
+* greet
+   - utter_greet
+* ask_func_bot
+   - utter_ask_func_bot
 * thanks
    - utter_thanks

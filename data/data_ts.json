@@ -1494,12 +1494,12 @@
         "entities": []
       },
       {
-        "text": "chào mày ",
+        "text": "chào mày",
         "intent": "greeting",
         "entities": []
       },
       {
-        "text": "tao chào mày ",
+        "text": "tao chào mày",
         "intent": "greeting",
         "entities": []
       },

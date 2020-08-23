@@ -3,13 +3,16 @@
     "action_listen": {
       "slots": []
     },
+    "utter_thanks": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
     "utter_english": {
       "slots": []
     },
     "utter_tuition": {
-      "slots": []
-    },
-    "utter_thanks": {
       "slots": []
     },
     "utter_complain": {
@@ -28,7 +31,7 @@
     "rasa_core.policies.keras_policy.KerasPolicy",
     "rasa_core.policies.fallback.FallbackPolicy"
   ],
-  "trained_at": "20200822-225431",
+  "trained_at": "20200823-154750",
   "rasa_core": "0.14.5",
   "tensorflow": "1.13.2",
   "sklearn": "0.20.4"
