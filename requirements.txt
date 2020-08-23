@@ -1,0 +1,5 @@
+tensorflow==1.13.2
+rasa_core
+sklearn_crfsuite
+tornado
+flask
