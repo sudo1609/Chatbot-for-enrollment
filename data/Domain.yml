@@ -9,6 +9,7 @@ intents:
   - info_major
   - thanks
   - complain
+  - bye_bye
 entities:
   - certificate
   - obligatory
@@ -40,13 +41,16 @@ năm 2020 được ưu đãi 30% học phí cho cả khoá học."
             - tuyển thẳng\n\
             - tuyển ưu tiên."
   utter_info_major:
-  - text: "vứt cho cái ảnh tự đọc nhé, chứ thông nhiều lắm kể không hết:))"
+  - text: "vứt cho cái ảnh tự đọc nhé, chứ thông tin nhiều lắm kể không hết:))"
   utter_thanks:
   - text: "Dạ, không có gì đâu ạ. Giúp được bạn là vinh hạnh của mình."
   - text: "Không có gì đâu ạ, giúp được bạn mình vui lắm."
   utter_complain:
   - text: "Mình rất xin lỗi bạn. Mình sẽ cố gắng hoàn thiện trong thời gian sắp tới :(("
   - text: "Dạ mình xin lỗi bạn mình sẽ cố hoàn thiện hơn ạ. :(("
+  utter_bye_bye:
+  - text: "Dạ. chào bạn và hẹn gặp lại bạn nhé ^^"
+  - text: "Hẹn gặp lại bạn nhé. Chúc bạn một ngày tốt lành!!"
   utter_KH:
   - text: "xin lỗi nhé bạn nói cái khỉ gì vậy mình đéo hiểu gì\n\
            Bạn nói lại xem nào!!!"
@@ -62,3 +66,4 @@ actions:
   - utter_info_major
   - utter_thanks
   - utter_complain
+  - utter_bye_bye

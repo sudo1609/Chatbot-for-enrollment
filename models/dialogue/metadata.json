@@ -3,19 +3,16 @@
     "action_listen": {
       "slots": []
     },
+    "utter_bye_bye": {
+      "slots": []
+    },
+    "utter_complain": {
+      "slots": []
+    },
     "utter_thanks": {
       "slots": []
     },
     "utter_greet": {
-      "slots": []
-    },
-    "utter_english": {
-      "slots": []
-    },
-    "utter_tuition": {
-      "slots": []
-    },
-    "utter_complain": {
       "slots": []
     }
   },
@@ -31,7 +28,7 @@
     "rasa_core.policies.keras_policy.KerasPolicy",
     "rasa_core.policies.fallback.FallbackPolicy"
   ],
-  "trained_at": "20200823-154750",
+  "trained_at": "20200824-130815",
   "rasa_core": "0.14.5",
   "tensorflow": "1.13.2",
   "sklearn": "0.20.4"

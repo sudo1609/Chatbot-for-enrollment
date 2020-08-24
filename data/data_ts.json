@@ -1856,6 +1856,266 @@
             "entity": "major "
           }
         ]
+      },
+      {
+        "text": "chào nhá ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "xin chào bạn ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "tao chào mày nhé ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "chào ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "hê lô",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "mình chào bạn ạ ",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "ê mày tao cần hỏi đáp vài thứ ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tôi cần giải đáp một vài câu hỏi ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "ê tao có câu hỏi muốn hỏi mày ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "hỏi vài câu với mày ơi ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "có vài thắc mắc cần tư vấn ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tư vấn giúp mình với được không bot ơi ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tư vấn ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tư vấn đê bạn ơi ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tôi cần phải được tư vấn ngay bây giờ",
+        "intent": "advisory",
+        "entities": []
+      },
+      {
+        "text": "tạm biệt nhé ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "tạm biệt",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "hẹn gặp lại bạn nhé ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "mai gặp lại ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "tạm biệt ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "mình đi đây ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "see you again ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "bye bye",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "hẹn bạn vào lần sau nhé ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "lần sau mình quay lại ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "chào tạm biệt bạn nhé ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "chào tạm biệt ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "bái bai nhá",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "hẹn gặp lại nhá ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "có gì gặp lại sau ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "có gì tao hỏi tiếp ",
+        "intent": "bye_bye",
+        "entities": []
+      },
+      {
+        "text": "mày có biết là mày ngu lắm không ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu lắm luôn ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu thế không biết được ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu vừa vừa thôi chứ ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "sao ngu vậy ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ôi trời ngu quá cơ ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "bot ai làm mà ngu thế ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "bot gì mà ngu vậy ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "ngu không tả nổi ",
+        "intent": "complain",
+        "entities": []
+      },
+      {
+        "text": "cơ sở học",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "cơ sở của FPT",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "chỗ trường học của FPT",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "cơ sở học của trường FPT",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "vị trí đặt trường FPT ở đâu vậy ",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "bạn ơi cho mình hỏi trường FPT nó nằm ở đâu ",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "bot cho mình hỏi FPT đang có những cơ sở nào thế ",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "mình muốn biết các cơ sở trường đại học hiện tại của FPT",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "trường đại học FPT đang nằm ở những đâu vậy?",
+        "intent": "tuition",
+        "entities": []
+      },
+      {
+        "text": "cho mình hỏi địa chỉ của đại học FPT tại hà nội với ạ ",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "mình muốn hỏi địa chỉ của trường FPT tại đà nẵng.",
+        "intent": "location",
+        "entities": []
+      },
+      {
+        "text": "địa chỉ của đại học fpt tại cần thơ nằm ở đâu",
+        "intent": "location",
+        "entities": []
       }
     ],
     "regex_features": [],

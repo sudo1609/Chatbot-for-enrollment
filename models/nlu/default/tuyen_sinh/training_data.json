@@ -1313,11 +1313,11 @@
       },
       {
         "intent": "greeting",
-        "text": "chào mày "
+        "text": "chào mày"
       },
       {
         "intent": "greeting",
-        "text": "tao chào mày "
+        "text": "tao chào mày"
       },
       {
         "intent": "greeting",
@@ -1606,6 +1606,214 @@
           }
         ],
         "text": "cho em hỏi về ngành trí tuệ nhân tạo là học gì vậy ạ "
+      },
+      {
+        "intent": "greeting",
+        "text": "chào nhá "
+      },
+      {
+        "intent": "greeting",
+        "text": "xin chào bạn "
+      },
+      {
+        "intent": "greeting",
+        "text": "tao chào mày nhé "
+      },
+      {
+        "intent": "greeting",
+        "text": "chào "
+      },
+      {
+        "intent": "greeting",
+        "text": "hê lô"
+      },
+      {
+        "intent": "greeting",
+        "text": "mình chào bạn ạ "
+      },
+      {
+        "intent": "advisory",
+        "text": "ê mày tao cần hỏi đáp vài thứ "
+      },
+      {
+        "intent": "advisory",
+        "text": "tôi cần giải đáp một vài câu hỏi "
+      },
+      {
+        "intent": "advisory",
+        "text": "ê tao có câu hỏi muốn hỏi mày "
+      },
+      {
+        "intent": "advisory",
+        "text": "hỏi vài câu với mày ơi "
+      },
+      {
+        "intent": "advisory",
+        "text": "có vài thắc mắc cần tư vấn "
+      },
+      {
+        "intent": "advisory",
+        "text": "tư vấn giúp mình với được không bot ơi "
+      },
+      {
+        "intent": "advisory",
+        "text": "tư vấn "
+      },
+      {
+        "intent": "advisory",
+        "text": "tư vấn đê bạn ơi "
+      },
+      {
+        "intent": "advisory",
+        "text": "tôi cần phải được tư vấn ngay bây giờ"
+      },
+      {
+        "intent": "bye_bye",
+        "text": "tạm biệt nhé "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "tạm biệt"
+      },
+      {
+        "intent": "bye_bye",
+        "text": "hẹn gặp lại bạn nhé "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "mai gặp lại "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "tạm biệt "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "mình đi đây "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "see you again "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "bye_bye",
+        "text": "hẹn bạn vào lần sau nhé "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "lần sau mình quay lại "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "chào tạm biệt bạn nhé "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "chào tạm biệt "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "bái bai nhá"
+      },
+      {
+        "intent": "bye_bye",
+        "text": "hẹn gặp lại nhá "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "có gì gặp lại sau "
+      },
+      {
+        "intent": "bye_bye",
+        "text": "có gì tao hỏi tiếp "
+      },
+      {
+        "intent": "complain",
+        "text": "mày có biết là mày ngu lắm không "
+      },
+      {
+        "intent": "complain",
+        "text": "ngu lắm luôn "
+      },
+      {
+        "intent": "complain",
+        "text": "ngu thế không biết được "
+      },
+      {
+        "intent": "complain",
+        "text": "ngu vừa vừa thôi chứ "
+      },
+      {
+        "intent": "complain",
+        "text": "sao ngu vậy "
+      },
+      {
+        "intent": "complain",
+        "text": "ôi trời ngu quá cơ "
+      },
+      {
+        "intent": "complain",
+        "text": "bot ai làm mà ngu thế "
+      },
+      {
+        "intent": "complain",
+        "text": "bot gì mà ngu vậy "
+      },
+      {
+        "intent": "complain",
+        "text": "ngu không tả nổi "
+      },
+      {
+        "intent": "location",
+        "text": "cơ sở học"
+      },
+      {
+        "intent": "location",
+        "text": "cơ sở của FPT"
+      },
+      {
+        "intent": "location",
+        "text": "chỗ trường học của FPT"
+      },
+      {
+        "intent": "location",
+        "text": "cơ sở học của trường FPT"
+      },
+      {
+        "intent": "location",
+        "text": "vị trí đặt trường FPT ở đâu vậy "
+      },
+      {
+        "intent": "location",
+        "text": "bạn ơi cho mình hỏi trường FPT nó nằm ở đâu "
+      },
+      {
+        "intent": "location",
+        "text": "bot cho mình hỏi FPT đang có những cơ sở nào thế "
+      },
+      {
+        "intent": "location",
+        "text": "mình muốn biết các cơ sở trường đại học hiện tại của FPT"
+      },
+      {
+        "intent": "tuition",
+        "text": "trường đại học FPT đang nằm ở những đâu vậy?"
+      },
+      {
+        "intent": "location",
+        "text": "cho mình hỏi địa chỉ của đại học FPT tại hà nội với ạ "
+      },
+      {
+        "intent": "location",
+        "text": "mình muốn hỏi địa chỉ của trường FPT tại đà nẵng."
+      },
+      {
+        "intent": "location",
+        "text": "địa chỉ của đại học fpt tại cần thơ nằm ở đâu"
       }
     ],
     "regex_features": [],

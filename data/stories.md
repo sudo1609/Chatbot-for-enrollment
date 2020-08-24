@@ -1,4 +1,4 @@
-## greet - ask_func_bot - advisory + tuition
+## greet - ask_func_bot - advisory + tuition + bye_bye 
 * greet
    - utter_greet
 * ask_func_bot
@@ -9,15 +9,20 @@
    - utter_tuition
 * thanks
    - utter_thanks
-## addvisory - tuition - english
+* bye_bye
+   - utter_bye_bye
+
+## addvisory - tuition - english + bye_bye 
 * advisory
    - utter_advisory
 * tuition
    - utter_tuition
 * english
    - utter_english
+* bye_bye
+   - utter_bye_bye
 
-## advisory + recruitment + tuition
+## advisory + recruitment + tuition + bye_bye
 * greet
    - utter_greet
 * advisory
@@ -26,8 +31,10 @@
    - utter_recruitment
 * tuition
    - utter_tuition
+* bye_bye
+   - utter_bye_bye
 
-## greet + ask_func_bot + tuition + english + recruitment
+## greet + ask_func_bot + tuition + english + recruitment + bye_bye
 * greet
    - utter_greet
 * ask_func_bot
@@ -38,14 +45,18 @@
    - utter_tuition
 * english
    - utter_english
+* bye_bye
+   - utter_bye_bye
 
-## greet + location + thanks 
+## greet + location + thanks + bye_bye
 * greet
    - utter_greet
 * location
    - utter_location
 * thanks
    - utter_thanks
+* bye_bye
+   - utter_bye_bye
 
 ## complain 
 * complain
@@ -64,8 +75,10 @@
    - utter_english
 * thanks
    - utter_thanks
+* bye_bye
+   - utter_bye_bye
 
-## greet + advisory + english + thanks
+## greet + advisory + english + thanks + bye_bye
 * greet
    - utter_greet
 * advisory
@@ -74,6 +87,8 @@
    - utter_english
 * thanks
    - utter_thanks
+* bye_bye
+   - utter_bye_bye
 
 ## greet
 * greet
@@ -91,24 +106,40 @@
 * thanks
    - utter_thanks
 
-## info_major + thanks
+## info_major + thanks + bye_bye
 * info_major
    - utter_info_major
 * thanks
    - utter_thanks
+* bye_bye
+   - utter_bye_bye
 
-## recruitment + tuition + thanks
+## recruitment + tuition + thanks + bye_bye
 * recruitment
    - utter_recruitment
 * tuition
    - utter_tuition
 * thanks
    - utter_thanks
+* bye_bye
+   - utter_bye_bye
 
-## greet + ask_func_bot
+## greet + ask_func_bot + bye_bye
 * greet
    - utter_greet
 * ask_func_bot
    - utter_ask_func_bot
 * thanks
    - utter_thanks
+* bye_bye
+   - utter_bye_bye
+
+## bye_bye
+* bye_bye
+   - utter_bye_bye
+
+## greet + bye_bye
+* greet
+   - utter_greet
+* bye_bye
+   - utter_bye_bye

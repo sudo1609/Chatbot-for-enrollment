@@ -2,6 +2,7 @@
   "states": [
     "intent_advisory",
     "intent_ask_func_bot",
+    "intent_bye_bye",
     "intent_complain",
     "intent_english",
     "intent_greeting",
@@ -30,6 +31,7 @@
     "prev_utter_recruitment",
     "prev_utter_info_major",
     "prev_utter_thanks",
-    "prev_utter_complain"
+    "prev_utter_complain",
+    "prev_utter_bye_bye"
   ]
 }

@@ -26,8 +26,8 @@ def train_dialog(dialog_training_data_file, domain_file, path_to_model = 'models
         training_data,
         augmentation_factor=50,
         validation_split=0.2)
+        
     agent.persist(path_to_model)
-
 # Train
 #--------
 train_dialog('data/stories.md', 'data/Domain.yml')
